@@ -203,7 +203,7 @@ body{
 
 .habilidades .container-habilidades .informacoes{
     max-width: 350px;
-    padding: 40px 20px;    
+    padding: 40px 20px;
 }
 
 .habilidades .container-habilidades .informacoes p,
@@ -234,10 +234,6 @@ body{
 
 .habilidades .container-habilidades .informacoes .logo i{
     font-size: 7rem;
-}
-
-.projetos {
-	padding: 70px 0 70px;
 }
 
 .projetos .titulo {
@@ -338,7 +334,8 @@ body{
 }
 
 .footer{
-    text-align: center;
+    padding: 50px;
+	text-align: center;
 }
 
 .footer .container-footer{
